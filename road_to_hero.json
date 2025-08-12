@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2025-08-12",
+    "lc_number": 643,
+    "description": "Max-Subarray-1",
+    "pushups": false,
+    "squats": false,
+    "crunches": false
+  },
+  {
+    "date": "2025-08-12",
+    "lc_number": 1456,
+    "description": "Max-Num-Of-Vowels-In-Window",
+    "pushups": false,
+    "squats": false,
+    "crunches": false
+  },
+  {
+    "date": "2025-08-9",
+    "lc_number": 283,
+    "description": "Move-Zeroes",
+    "pushups": false,
+    "squats": false,
+    "crunches": false
+  },
+  {
+    "date": "2025-08-10",
+    "lc_number": 334,
+    "description": "Increasing-Triplet-Subsequence",
+    "pushups": false,
+    "squats": false,
+    "crunches": false
+  },
+  {
+    "date": "2025-08-10",
+    "lc_number": 392,
+    "description": "Is-Subsequence",
+    "pushups": false,
+    "squats": false,
+    "crunches": false
+  },
+  {
+    "date": "2025-08-11",
+    "lc_number": 443,
+    "description": "String-Compression",
+    "pushups": false,
+    "squats": false,
+    "crunches": false
+  }
+]
