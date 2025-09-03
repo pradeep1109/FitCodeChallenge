@@ -29,7 +29,7 @@ def my_soln (s):
     charSet = set()
     l=res=0
     for r in range(len(s)):
-        print (charSet)
+        #print (charSet)
         while s[r] in charSet:
             charSet.remove(s[l])
             l+=1

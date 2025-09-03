@@ -33,7 +33,7 @@ def maxArea(heights: list[int]) -> int:
     #       move the larger height
     l,r,area = 0,len(heights)-1,0
     while l<r:
-        print (area,(l-r)*min(heights[l],heights[r]))
+        #print (area,abs(l-r)*min(heights[l],heights[r]))
         area = max(area,abs(l-r)*min(heights[l],heights[r]))
         if heights[l]<heights[r]:
             l+=1
